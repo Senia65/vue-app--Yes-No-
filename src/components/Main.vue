@@ -47,6 +47,8 @@
         font-family: Avenir, Helvetica, Arial, sans-serif;
         font-size: 2em;
         margin-top:100px;
-        margin-left:750px;
+        display: block;
+        margin-right:auto;
+        margin-left: auto;
     }
 </style>
